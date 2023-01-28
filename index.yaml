@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-releaser:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-28T17:47:30.173482+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 75688a3dea2a90374c31a4231c2a48dfcf01cb6b9b610a3d915ce4ac8ae8398d
+    name: chart-releaser
+    type: application
+    urls:
+    - https://github.com/katter/kt-helm/releases/download/chart-releaser-0.1.0/chart-releaser-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-28T17:47:30.173496+01:00"
